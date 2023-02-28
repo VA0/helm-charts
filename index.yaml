@@ -3,6 +3,15 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2023-02-28T15:13:19.364904+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 039acb82ff032759591adfc07d5c87ec6984dde513a9452d062d51401960efc4
+    name: nginx
+    urls:
+    - https://github.com/VA0/helm-charts/releases/download/nginx-0.1.1/nginx-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2023-02-28T14:30:03.719227+01:00"
     description: A Helm chart for Kubernetes
     digest: a8042e9c620bb388d63a713223c19f47f472f702208b2e6a7d85f2c068486230
